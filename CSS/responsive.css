@@ -1,0 +1,19 @@
+
+/*              à faire             */
+
+@media screen and (max-width: 480px) {
+    #container {
+        text-align: center;
+        font-size: 17px;
+        /* padding: 2rem; */
+        /* width: 15em;
+        height: 24em; */
+        margin: 0px;
+        margin-top: -5rem;
+    }
+    body{
+        display: flex;
+        flex-direction: column;
+        background-image: cover;
+    }
+  }
